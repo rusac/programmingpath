@@ -38,6 +38,7 @@ Other Programming Resources:
 
 - [Learning Github](https://try.github.io/levels/1/challenges/1)
 
+- [Learning C](http://www.cprogramming.com/tutorial/c-tutorial.html)
 <BR>
 <BR>
 Security:
