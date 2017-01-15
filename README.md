@@ -11,7 +11,13 @@ Progress:
 <BR>
 <BR>
 <BR>
+<BR>
+Completed exercises:
 
+- [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
+
+<BR>
+<BR>
 Long-term current exercise:
 
 - [Make Minecraft Using C](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_)
