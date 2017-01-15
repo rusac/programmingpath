@@ -1,4 +1,88 @@
-## Welcome to GitHub Pages
+## Personal programming pathway
+
+Current exercise:
+
+- [Automate the boring stuff with python](https://automatetheboringstuff.com/)
+
+Progress:
+
+- 0%
+<BR>
+<BR>
+<BR>
+<BR>
+
+Long-term current exercise:
+
+- [Make Minecraft Using C](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_)
+
+- [Found on reddit initially](https://www.reddit.com/r/learnprogramming/comments/5nd9la/tutorial_learn_to_make_minecraft_using_c_and/)
+
+<BR>
+<BR>
+Python Links:
+
+- [Interesting Python Problems](https://www.reddit.com/r/learnprogramming/comments/5llmml/interesting_python_practice_problems_from_the/)
+
+<BR>
+<BR>
+Other Programming Resources:
+
+- [One-Year Programming Challenge](https://www.reddit.com/r/learnprogramming/comments/5mdehp/one_year_reddit_programmer_challenge/)
+
+- [Learning Github](https://try.github.io/levels/1/challenges/1)
+
+<BR>
+<BR>
+Security:
+
+- [Odin Project and Similar](https://www.reddit.com/r/learnprogramming/comments/5mijdd/anything_like_odin_project_for_cybersecurity/)
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
 
 You can use the [editor on GitHub](https://github.com/rusac/programmingpath/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
