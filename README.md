@@ -10,11 +10,17 @@ Progress:
 <BR>
 <BR>
 <BR>
-<BR>
-<BR>
+
 Completed exercises:
 
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
+
+<BR>
+<BR>
+Projects:
+
+- Calculating weighted means
+- Tangram graphic sandbox
 
 <BR>
 <BR>
