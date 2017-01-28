@@ -20,6 +20,7 @@ Completed exercises:
 Projects:
 
 - Calculating weighted means
+- Tic Tac Toe game
 - Tangram graphic sandbox
 
 <BR>
@@ -45,6 +46,8 @@ Other Programming Resources:
 - [Learning Github](https://try.github.io/levels/1/challenges/1)
 
 - [Learning C](http://www.cprogramming.com/tutorial/c-tutorial.html)
+
+- [Nand2Tetris](http://www.nand2tetris.org/)
 <BR>
 <BR>
 Security:
