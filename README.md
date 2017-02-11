@@ -50,6 +50,16 @@ Other Programming Resources:
 - [Nand2Tetris](http://www.nand2tetris.org/)
 <BR>
 <BR>
+Web development:
+
+- [Become a Web Developer: Viking Code School](https://www.vikingcodeschool.com/prep)
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
 Security:
 
 - [Odin Project and Similar](https://www.reddit.com/r/learnprogramming/comments/5mijdd/anything_like_odin_project_for_cybersecurity/)
