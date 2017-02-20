@@ -8,7 +8,7 @@ Progress:
 
 - Completed 2 Chapters of 18
 
- <progress value="10" max="100"></progress> 
+ <progress value="20" max="180"></progress> 
 <BR>
 <BR>
 
