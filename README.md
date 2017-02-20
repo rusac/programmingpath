@@ -6,7 +6,7 @@ Current exercise:
 
 Progress:
 
-- 0%
+- Completed 2 Chapters of 18
 <BR>
 <BR>
 <BR>
