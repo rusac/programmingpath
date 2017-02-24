@@ -11,6 +11,16 @@ Progress:
  <progress value="20" max="180"></progress> 
 <BR>
 <BR>
+Current micro-task:
+- Euler # 1, various types of loops etc to solve;
+- Task found on internet:
+ - User inputs series of positive numbers until they enter 0
+ - Each number entered is added to sum using following rules:
+  - if number = 10 multiply sum by 10
+  - if number is even add 3x the number to the sum
+  - else double the sum
+ - prompt user for each number, zero to quit, print the sum
+
 <BR>
 <BR>
 [Some notes:](https://github.com/rusac/programmingpath/blob/master/notes.md)
