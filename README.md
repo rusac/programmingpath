@@ -11,6 +11,11 @@ Progress:
  <progress value="20" max="180"></progress> 
 <BR>
 <BR>
+<BR>
+<BR>
+[Some notes:](https://github.com/rusac/programmingpath/blob/master/notes.md)
+
+<BR>
 
 Completed exercises:
 
