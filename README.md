@@ -55,6 +55,14 @@ Python Links:
 
 <BR>
 <BR>
+Problems problems, problems and puzzles:
+
+- [Project Euler - 592 Problems](https://projecteuler.net/) -- Progress = 1 of 592
+  <progress value="10" max="5920"></progress> 
+
+- [Intermediate level problems - Java but will attempt with Python/C++](https://edabit.com/explore)
+<BR>
+<BR>
 Other Programming Resources:
 
 - [One-Year Programming Challenge](https://www.reddit.com/r/learnprogramming/comments/5mdehp/one_year_reddit_programmer_challenge/)
@@ -64,6 +72,8 @@ Other Programming Resources:
 - [Learning C](http://www.cprogramming.com/tutorial/c-tutorial.html)
 
 - [Nand2Tetris](http://www.nand2tetris.org/)
+
+- [Programmer Competency Matrix - How much/little do I know?](http://sijinjoseph.com/programmer-competency-matrix/)
 <BR>
 <BR>
 Web development:
