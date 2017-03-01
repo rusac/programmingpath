@@ -61,11 +61,17 @@ Problems problems, problems and puzzles:
   <progress value="10" max="5920"></progress> 
 
 - [Intermediate level problems - Java but will attempt with Python/C++](https://edabit.com/explore)
+
+- [Karan mega project list](https://github.com/karan/Projects)
 <BR>
 <BR>
 Other Programming Resources:
 
 - [One-Year Programming Challenge](https://www.reddit.com/r/learnprogramming/comments/5mdehp/one_year_reddit_programmer_challenge/)
+
+- [Competitive Programmer's Handbook by Antti Laaksonen](https://cses.fi/book.html)
+
+- [CS 97SI: Introduction to Programming Contests](http://web.stanford.edu/class/cs97si/)
 
 - [Learning Github](https://try.github.io/levels/1/challenges/1)
 
@@ -76,16 +82,14 @@ Other Programming Resources:
 - [Programmer Competency Matrix - How much/little do I know?](http://sijinjoseph.com/programmer-competency-matrix/)
 <BR>
 <BR>
+<BR>
+<BR>
+<BR>
 Web development:
 
 - [Become a Web Developer: Viking Code School](https://www.vikingcodeschool.com/prep)
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
 
+<BR>
 Security:
 
 - [Odin Project and Similar](https://www.reddit.com/r/learnprogramming/comments/5mijdd/anything_like_odin_project_for_cybersecurity/)
