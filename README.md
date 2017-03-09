@@ -63,6 +63,8 @@ Problems problems, problems and puzzles:
 - [Intermediate level problems - Java but will attempt with Python/C++](https://edabit.com/explore)
 
 - [Karan mega project list](https://github.com/karan/Projects)
+
+- [Hacker Earth - practice problems](https://www.hackerearth.com/)
 <BR>
 <BR>
 Other Programming Resources:
