@@ -12,7 +12,8 @@ Progress:
 <BR>
 <BR>
 Current micro-task:
-- Euler # 2, playing with fibonacci sequence;
+- Euler # 5, Smallest Multiple of a Consecutive String of Numbers;
+- Euler # 4, Palindrome problem
 - Task found on internet:
  - User inputs series of positive numbers until they enter 0
  - Each number entered is added to sum using following rules:
