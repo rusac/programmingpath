@@ -58,8 +58,8 @@ Python Links:
 <BR>
 Problems problems, problems and puzzles:
 
-- [Project Euler - 592 Problems](https://projecteuler.net/) -- Progress = 1 of 592
-  <progress value="10" max="5920"></progress> 
+- [Project Euler - 592 Problems](https://projecteuler.net/) -- Progress = 4 of 592
+  <progress value="40" max="5920"></progress> 
 
 - [Intermediate level problems - Java but will attempt with Python/C++](https://edabit.com/explore)
 
