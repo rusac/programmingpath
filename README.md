@@ -68,6 +68,11 @@ Problems problems, problems and puzzles:
 - [Hacker Earth - practice problems](https://www.hackerearth.com/)
 <BR>
 <BR>
+Assembly Resources:
+
+- [Assembly Language Books and Links - Duntemann](http://www.duntemann.com/assembly.html)
+<BR>
+<BR>
 Other Programming Resources:
 
 - [One-Year Programming Challenge](https://www.reddit.com/r/learnprogramming/comments/5mdehp/one_year_reddit_programmer_challenge/)
