@@ -96,6 +96,11 @@ Other Programming Resources:
 - [Programmer Competency Matrix - How much/little do I know?](http://sijinjoseph.com/programmer-competency-matrix/)
 <BR>
 <BR>
+NES/Gameboy Programming Resources:
+
+- [NESDev - wiki and forums](http://nesdev.com/)
+
+
 <BR>
 <BR>
 <BR>
