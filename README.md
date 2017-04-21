@@ -68,6 +68,14 @@ Problems problems, problems and puzzles:
 - [Hacker Earth - practice problems](https://www.hackerearth.com/)
 <BR>
 <BR>
+Github:
+
+- [ProGit Book](https://git-scm.com/book/en/v2)
+
+- [Github Challenges](https://try.github.io/levels/1/challenges/1)
+<BR>
+<BR>
+
 Assembly Resources:
 
 - [Assembly Language Books and Links - Duntemann](http://www.duntemann.com/assembly.html)
@@ -80,8 +88,6 @@ Other Programming Resources:
 - [Competitive Programmer's Handbook by Antti Laaksonen](https://cses.fi/book.html)
 
 - [CS 97SI: Introduction to Programming Contests](http://web.stanford.edu/class/cs97si/)
-
-- [Learning Github](https://try.github.io/levels/1/challenges/1)
 
 - [Learning C](http://www.cprogramming.com/tutorial/c-tutorial.html)
 
