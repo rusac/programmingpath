@@ -6,9 +6,9 @@ Current exercise:
 
 Progress:
 
-- Completed 2 Chapters of 18
+- Completed 3 Chapters of 18
 
- <progress value="20" max="180"></progress> 
+ <progress value="30" max="180"></progress> 
 <BR>
 <BR>
 Current micro-task:
