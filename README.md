@@ -53,6 +53,7 @@ Long-term current exercise:
 Python Links:
 
 - [Interesting Python Problems](https://www.reddit.com/r/learnprogramming/comments/5llmml/interesting_python_practice_problems_from_the/)
+- [Python for Beginners: Complete Series(youtube)](https://www.reddit.com/r/learnprogramming/comments/6bxdut/python_for_beginners_complete_series/)
 
 <BR>
 <BR>
