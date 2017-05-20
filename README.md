@@ -67,6 +67,8 @@ Problems problems, problems and puzzles:
 - [Karan mega project list](https://github.com/karan/Projects)
 
 - [Hacker Earth - practice problems](https://www.hackerearth.com/)
+
+- [Hacker Rank - practice problems](https://www.hackerrank.com/)
 <BR>
 <BR>
 Github:
