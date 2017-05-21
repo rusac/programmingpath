@@ -86,6 +86,8 @@ Assembly Resources:
 <BR>
 Other Programming Resources:
 
+- [Screeps - Java Programming Game](https://screeps.com/)
+
 - [One-Year Programming Challenge](https://www.reddit.com/r/learnprogramming/comments/5mdehp/one_year_reddit_programmer_challenge/)
 
 - [Competitive Programmer's Handbook by Antti Laaksonen](https://cses.fi/book.html)
