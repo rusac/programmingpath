@@ -3,17 +3,17 @@
 Current exercise:
 
 - [Automate the boring stuff with python](https://automatetheboringstuff.com/)
+- [Introduction to Computer Science with Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017/info)
 
 Progress:
 
-- Completed 3 Chapters of 18
+- Completed 4 Chapters of 18
 
  <progress value="30" max="180"></progress> 
 <BR>
 <BR>
 Current micro-task:
-- Euler # 5, Smallest Multiple of a Consecutive String of Numbers;
-- Euler # 4, Palindrome problem
+- Euler # 12, Triangular Numbers with More than 500 Factors;
 - Task found on internet:
  - User inputs series of positive numbers until they enter 0
  - Each number entered is added to sum using following rules:
