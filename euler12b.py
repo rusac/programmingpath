@@ -1,4 +1,4 @@
-# already tested n < 11 000 000 with no result.
+# already tested n < 16 000 000 with no result.
 
 '''
 Highly divisible triangular number
