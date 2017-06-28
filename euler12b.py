@@ -1,3 +1,5 @@
+# already tested n < 11 000 000 with no result.
+
 '''
 Highly divisible triangular number
 Problem 12
@@ -29,7 +31,8 @@ five hundred divisors?
 # 3rd triangular number = 1 + 2 + 3 = 6
 # etc.
 
-# triangular_num = ................
+import timeit
+start = timeit.default_timer()
 
 n = 1
 tri_num = 0
@@ -58,9 +61,11 @@ while max_factors <= 500:
     n += 1
 
 print("The number with most factors is: " + str(tri_num_w_mostfactors) + ". It has " + str(max_factors) + " many factors.")
-    
-    
-    
+
+
+stop = timeit.default_timer()
+first_attempt = (stop - start)
+print(first_attempt)
 
 
 
