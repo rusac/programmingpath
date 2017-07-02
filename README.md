@@ -86,6 +86,8 @@ Assembly Resources:
 <BR>
 Other Programming Resources:
 
+- [Structure and Interpretation of Computer Programs](http://www-inst.eecs.berkeley.edu/%7Ecs61a/sp12/book/)
+
 - [Screeps - Java Programming Game](https://screeps.com/)
 
 - [One-Year Programming Challenge](https://www.reddit.com/r/learnprogramming/comments/5mdehp/one_year_reddit_programmer_challenge/)
