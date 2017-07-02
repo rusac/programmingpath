@@ -86,7 +86,7 @@ Assembly Resources:
 <BR>
 Other Programming Resources:
 
-- [Structure and Interpretation of Computer Programs](http://www-inst.eecs.berkeley.edu/%7Ecs61a/sp12/book/)
+- [Structure and Interpretation of Computer Programs - Modified for Python](http://www-inst.eecs.berkeley.edu/%7Ecs61a/sp12/book/)
 
 - [Screeps - Java Programming Game](https://screeps.com/)
 
