@@ -13,7 +13,6 @@ Progress:
 <BR>
 <BR>
 Current micro-task:
-- Euler # 12, Triangular Numbers with More than 500 Factors;
 - Task found on internet:
  - User inputs series of positive numbers until they enter 0
  - Each number entered is added to sum using following rules:
@@ -57,10 +56,16 @@ Python Links:
 
 <BR>
 <BR>
+Computer Science Curriculum - Full and Online:
+
+- [Google document](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#gid=0)
+
+<BR>
+<BR>
 Problems problems, problems and puzzles:
 
-- [Project Euler - 592 Problems](https://projecteuler.net/) -- Progress = 4 of 592
-  <progress value="40" max="5920"></progress> 
+- [Project Euler - 592 Problems](https://projecteuler.net/) -- Progress = 19 of 592
+  <progress value="190" max="5920"></progress> 
 
 - [Intermediate level problems - Java but will attempt with Python/C++](https://edabit.com/explore)
 
@@ -69,6 +74,8 @@ Problems problems, problems and puzzles:
 - [Hacker Earth - practice problems](https://www.hackerearth.com/)
 
 - [Hacker Rank - practice problems](https://www.hackerrank.com/)
+
+- [CodingBat](http://codingbat.com/prob/p173401)
 <BR>
 <BR>
 Github:
