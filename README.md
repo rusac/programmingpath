@@ -3,13 +3,12 @@
 Current exercise:
 
 - [Automate the boring stuff with python](https://automatetheboringstuff.com/)
+Progress:
+- Completed 4 Chapters of 18
+ <progress value="30" max="180"></progress> 
+
 - [Introduction to Computer Science with Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017/info)
 
-Progress:
-
-- Completed 4 Chapters of 18
-
- <progress value="30" max="180"></progress> 
 <BR>
 <BR>
 Current micro-task:
@@ -94,6 +93,8 @@ Assembly Resources:
 Other Programming Resources:
 
 - [Structure and Interpretation of Computer Programs - Modified for Python](http://www-inst.eecs.berkeley.edu/%7Ecs61a/sp12/book/)
+
+- [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
 
 - [Screeps - Java Programming Game](https://screeps.com/)
 
