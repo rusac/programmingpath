@@ -58,7 +58,8 @@ Python Links:
 Computer Science Curriculum - Full and Online:
 
 - [Google document](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#gid=0)
-
+- [Open-Source Society](https://github.com/open-source-society/computer-science)
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 <BR>
 <BR>
 Problems problems, problems and puzzles:
