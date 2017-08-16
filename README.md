@@ -7,8 +7,6 @@ Progress:
 - Completed 4 Chapters of 18
  <progress value="30" max="180"></progress> 
 
-- [Introduction to Computer Science with Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017/info)
-
 <BR>
 <BR>
 Current micro-task:
@@ -29,6 +27,7 @@ Current micro-task:
 Completed exercises:
 
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
+- [Introduction to Computer Science with Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017/info)
 
 <BR>
 <BR>
@@ -88,6 +87,7 @@ Github:
 
 Assembly Resources:
 
+- [Art of Assembly Language Programming and HLA](http://www.plantation-productions.com/Webster/)
 - [Assembly Language Books and Links - Duntemann](http://www.duntemann.com/assembly.html)
 <BR>
 <BR>
