@@ -126,6 +126,8 @@ Web development:
 
 - [Bento: Learning CSS with Tutorials](https://bento.io/topic/css)
 
+- [List of Public Apis](https://github.com/toddmotto/public-apis)
+
 <BR>
 Security:
 
