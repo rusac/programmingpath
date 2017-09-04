@@ -54,6 +54,14 @@ Python Links:
 
 <BR>
 <BR>
+
+Linux/Bash Resources:
+- [How to create a first shell script](http://www.linfo.org/create_shell_1.html)
+- [Shell scripting tutorial](https://www.shellscript.sh/)
+
+<BR>
+<BR>
+
 Computer Science Curriculum - Full and Online:
 
 - [Google document](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#gid=0)
