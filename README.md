@@ -44,6 +44,7 @@ Python Links:
 Linux/Bash Resources:
 - [How to create a first shell script](http://www.linfo.org/create_shell_1.html)
 - [Shell scripting tutorial](https://www.shellscript.sh/)
+- [SSH Essentials: Working with servers clients and keys](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys)
 <BR>
 <BR>
 Computer Science Curriculum - Full and Online:
