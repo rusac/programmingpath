@@ -8,14 +8,8 @@ Progress:
  <progress value="30" max="180"></progress> 
 <BR>
 <BR>
-Current micro-task:
-- Task found on internet:
- - User inputs series of positive numbers until they enter 0
- - Each number entered is added to sum using following rules:
-  - if number = 10 multiply sum by 10
-  - if number is even add 3x the number to the sum
-  - else double the sum
- - prompt user for each number, zero to quit, print the sum
+Category Theory for Programmers:
+- [Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source](https://github.com/hmemcpy/milewski-ctfp-pdf)
 <BR>
 <BR>
 [Some notes:](https://github.com/rusac/programmingpath/blob/master/notes.md)
