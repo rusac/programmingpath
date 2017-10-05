@@ -77,6 +77,7 @@ Other Programming Resources:
 - [Learning C](http://www.cprogramming.com/tutorial/c-tutorial.html)
 - [Nand2Tetris](http://www.nand2tetris.org/)
 - [Programmer Competency Matrix - How much/little do I know?](http://sijinjoseph.com/programmer-competency-matrix/)
+- [List of free programming ebooks](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 <BR>
 <BR>
 NES/Gameboy Programming Resources:
