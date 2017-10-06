@@ -38,7 +38,12 @@ Python Links:
 Linux/Bash/SSH Resources:
 - [How to create a first shell script](http://www.linfo.org/create_shell_1.html)
 - [Shell scripting tutorial](https://www.shellscript.sh/)
+<BR>
+<BR>
+SSH Resources:
 - [SSH Essentials: Working with servers clients and keys](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys)
+- [Ilustrated Guide to SSH Agent Forwarding](http://www.unixwiz.net/techtips/ssh-agent-forwarding.html)
+- [Using SSH Agent Forwarding](https://developer.github.com/v3/guides/using-ssh-agent-forwarding/)
 - [An Illustrated Guide to SSH Tunnels](https://solitum.net/an-illustrated-guide-to-ssh-tunnels/)
 <BR>
 <BR>
