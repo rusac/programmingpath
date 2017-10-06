@@ -35,10 +35,11 @@ Python Links:
 - [Python for Beginners: Complete Series(youtube)](https://www.reddit.com/r/learnprogramming/comments/6bxdut/python_for_beginners_complete_series/)
 <BR>
 <BR>
-Linux/Bash Resources:
+Linux/Bash/SSH Resources:
 - [How to create a first shell script](http://www.linfo.org/create_shell_1.html)
 - [Shell scripting tutorial](https://www.shellscript.sh/)
 - [SSH Essentials: Working with servers clients and keys](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys)
+- [An Illustrated Guide to SSH Tunnels](https://solitum.net/an-illustrated-guide-to-ssh-tunnels/)
 <BR>
 <BR>
 Computer Science Curriculum - Full and Online:
