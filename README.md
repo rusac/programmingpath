@@ -2,6 +2,7 @@
 
 Current exercise:
 
+- [Nand2Tetris](http://www.nand2tetris.org/)
 - [Automate the boring stuff with python](https://automatetheboringstuff.com/)
 Progress:
 - Completed 4 Chapters of 18
@@ -71,6 +72,9 @@ Github:
 Assembly Resources:
 - [Art of Assembly Language Programming and HLA](http://www.plantation-productions.com/Webster/)
 - [Assembly Language Books and Links - Duntemann](http://www.duntemann.com/assembly.html)
+- [Microcontroller Simulator](http://gpsim.sourceforge.net/)
+- [KTechLab - IDE for microcontrollers and electronics](https://github.com/ktechlab/ktechlab/wiki)
+- [MsDos Source Code](https://github.com/BlastarIndia/msdos?files=1)
 <BR>
 <BR>
 Other Programming Resources:
@@ -81,7 +85,6 @@ Other Programming Resources:
 - [Competitive Programmer's Handbook by Antti Laaksonen](https://cses.fi/book.html)
 - [CS 97SI: Introduction to Programming Contests](http://web.stanford.edu/class/cs97si/)
 - [Learning C](http://www.cprogramming.com/tutorial/c-tutorial.html)
-- [Nand2Tetris](http://www.nand2tetris.org/)
 - [Programmer Competency Matrix - How much/little do I know?](http://sijinjoseph.com/programmer-competency-matrix/)
 - [List of free programming ebooks](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 <BR>
