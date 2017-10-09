@@ -70,11 +70,14 @@ Github:
 <BR>
 <BR>
 Assembly Resources:
+- [Learn Assembly - Linux](http://asmtutor.com/)
 - [Art of Assembly Language Programming and HLA](http://www.plantation-productions.com/Webster/)
 - [Assembly Language Books and Links - Duntemann](http://www.duntemann.com/assembly.html)
 - [Microcontroller Simulator](http://gpsim.sourceforge.net/)
 - [KTechLab - IDE for microcontrollers and electronics](https://github.com/ktechlab/ktechlab/wiki)
 - [MsDos Source Code](https://github.com/BlastarIndia/msdos?files=1)
+- [Chip8 - Beginner's Guide](https://github.com/JohnEarnest/Octo/blob/gh-pages/docs/BeginnersGuide.md)
+- [Chip8 - Octo, an IDE for Chip8 virtual machine](https://github.com/JohnEarnest/Octo)
 <BR>
 <BR>
 Other Programming Resources:
