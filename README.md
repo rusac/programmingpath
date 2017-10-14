@@ -79,6 +79,8 @@ Assembly Resources:
 - [Chip8 - Beginner's Guide](https://github.com/JohnEarnest/Octo/blob/gh-pages/docs/BeginnersGuide.md)
 - [Chip8 - Octo, an IDE for Chip8 virtual machine](https://github.com/JohnEarnest/Octo)
 - [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html)
+- [Raspberry Pi Assembly](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/)
+- [x86 Assembly Guide](http://www.cs.virginia.edu/%7Eevans/cs216/guides/x86.html
 <BR>
 <BR>
 Other Programming Resources:
