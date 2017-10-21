@@ -48,6 +48,14 @@ SSH Resources:
 - [An Illustrated Guide to SSH Tunnels](https://solitum.net/an-illustrated-guide-to-ssh-tunnels/)
 <BR>
 <BR>
+OS Resources:
+- [Little Book About OS Development](https://littleosbook.github.io/)
+- [Kernel 101: Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
+- [The OS/161 Instructional Operating System - for ARM/pi](http://os161.eecs.harvard.edu/)
+- [Writing a Bootloader - Part 1](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
+- [Modern Operating Systems (4th Edition), Tanenbaum]()
+<BR>
+<BR>
 Computer Science Curriculum - Full and Online:
 - [Google document](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#gid=0)
 - [Open-Source Society](https://github.com/open-source-society/computer-science)
