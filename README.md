@@ -103,6 +103,9 @@ Other Programming Resources:
 - [Learning C](http://www.cprogramming.com/tutorial/c-tutorial.html)
 - [Programmer Competency Matrix - How much/little do I know?](http://sijinjoseph.com/programmer-competency-matrix/)
 - [List of free programming ebooks](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
+- [How to Write Your Own C++ Game Engine](http://preshing.com/20171218/how-to-write-your-own-cpp-game-engine/)
+- [Writing a C Compiler](https://norasandler.com/2017/12/15/Write-a-Compiler-3.html)
+- [Arduino and Unity Fast Communication](https://github.com/relativty/wrmhl)
 <BR>
 <BR>
 NES/Gameboy Programming Resources:
