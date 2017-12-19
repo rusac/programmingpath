@@ -78,6 +78,8 @@ Github:
 <BR>
 <BR>
 Assembly Resources:
+- [Intro to x86 Assembly - D.Wybiral](https://www.youtube.com/watch?v=wLXIWKUWpSs)
+- [x86-64 Linux Assembly Tutorials](https://www.youtube.com/watch?v=VQAKkuLL31g&list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn)
 - [Learn Assembly - Linux](http://asmtutor.com/)
 - [Art of Assembly Language Programming and HLA](http://www.plantation-productions.com/Webster/)
 - [Assembly Language Books and Links - Duntemann](http://www.duntemann.com/assembly.html)
