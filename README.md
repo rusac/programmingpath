@@ -121,7 +121,7 @@ Web development:
 <BR>
 Security:
 - [Odin Project and Similar](https://www.reddit.com/r/learnprogramming/comments/5mijdd/anything_like_odin_project_for_cybersecurity/)
-- [Embedded Security CTF](https://microcorruption.com/login)
+- [Embedded Security CTF](https://microcorruption.com/login)dcwansrgkm
 <BR>
 <BR>
 <BR>
