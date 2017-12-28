@@ -49,6 +49,7 @@ SSH Resources:
 <BR>
 <BR>
 OS Resources:
+- [Bootstrap Yourself to Write an OS From Scratch](https://github.com/tuhdo/os01)
 - [Little Book About OS Development](https://littleosbook.github.io/)
 - [Kernel 101: Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
 - [The OS/161 Instructional Operating System - for ARM/pi](http://os161.eecs.harvard.edu/)
@@ -120,6 +121,7 @@ Web development:
 <BR>
 Security:
 - [Odin Project and Similar](https://www.reddit.com/r/learnprogramming/comments/5mijdd/anything_like_odin_project_for_cybersecurity/)
+- [Embedded Security CTF](https://microcorruption.com/login)
 <BR>
 <BR>
 <BR>
