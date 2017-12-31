@@ -55,6 +55,7 @@ OS Resources:
 - [The OS/161 Instructional Operating System - for ARM/pi](http://os161.eecs.harvard.edu/)
 - [Writing a Bootloader - Part 1](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 - [Modern Operating Systems (4th Edition), Tanenbaum]()
+- [Baking PI: OS Development for Raspberry Pi](http://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/)
 <BR>
 <BR>
 Computer Science Curriculum - Full and Online:
