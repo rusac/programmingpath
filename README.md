@@ -83,6 +83,8 @@ Assembly Resources:
 - [Intro to x86 Assembly - D.Wybiral](https://www.youtube.com/watch?v=wLXIWKUWpSs)
 - [x86-64 Linux Assembly Tutorials](https://www.youtube.com/watch?v=VQAKkuLL31g&list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn)
 - [Learn Assembly - Linux](http://asmtutor.com/)
+- [Intro to Assembly for Compiler Writers](https://www3.nd.edu/~dthain/courses/cse40243/fall2015/intel-intro.html)
+- [ASM x64 Cheatsheet](https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf)
 - [Art of Assembly Language Programming and HLA](http://www.plantation-productions.com/Webster/)
 - [Assembly Language Books and Links - Duntemann](http://www.duntemann.com/assembly.html)
 - [Microcontroller Simulator](http://gpsim.sourceforge.net/)
