@@ -81,6 +81,7 @@ Github:
 <BR>
 Assembly Resources:
 - [Intro to x86 Assembly - D.Wybiral](https://www.youtube.com/watch?v=wLXIWKUWpSs)
+- [Learning to Read x86 Assembly](http://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language)
 - [x86-64 Linux Assembly Tutorials](https://www.youtube.com/watch?v=VQAKkuLL31g&list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn)
 - [Learn Assembly - Linux](http://asmtutor.com/)
 - [Intro to Assembly for Compiler Writers](https://www3.nd.edu/~dthain/courses/cse40243/fall2015/intel-intro.html)
