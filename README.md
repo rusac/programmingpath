@@ -6,7 +6,8 @@
 - [Automate the boring stuff with python](https://automatetheboringstuff.com/)
 Progress:
 - Completed 4 Chapters of 18
- <progress value="30" max="180"></progress> 
+    <progress value="30" max="180"></progress> 
+<BR>
  
 ### Completed exercises:
 
