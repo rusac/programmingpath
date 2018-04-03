@@ -18,6 +18,7 @@ Category Theory for Programmers:
 Completed exercises:
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 - [Introduction to Computer Science with Python - MITx - 6.00.1x through edx.org](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017/info)
+- [Introduction to Mathematical Thinking - StanfordU (Devlin) - through coursera.org](https://www.coursera.org/learn/mathematical-thinking)
 <BR>
 <BR>
 Projects:
