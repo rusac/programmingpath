@@ -61,8 +61,8 @@ Progress:
 
 ### Problems problems, problems and puzzles:
 
-- [Project Euler - 592 Problems](https://projecteuler.net/) -- Progress = 19 of 592
-  <progress value="190" max="5920"></progress> 
+- [Project Euler - 592 Problems](https://projecteuler.net/) -- Progress = 24 of 624
+  <progress value="240" max="6240"></progress> 
 - [Intermediate level problems - Java but will attempt with Python/C++](https://edabit.com/explore)
 - [Karan mega project list](https://github.com/karan/Projects)
 - [Hacker Earth - practice problems](https://www.hackerearth.com/)
