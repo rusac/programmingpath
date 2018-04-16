@@ -15,6 +15,16 @@ Progress:
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 - [Introduction to Mathematical Thinking - StanfordU (Devlin) - through coursera.org](https://www.coursera.org/learn/mathematical-thinking)
 
+### Problems problems, problems and puzzles:
+
+- [Project Euler - 624 Problems](https://projecteuler.net/) -- Progress = 27 of 624
+  <progress value="270" max="6240"></progress> 
+- [Intermediate level problems - Java but will attempt with Python/C++](https://edabit.com/explore)
+- [Karan mega project list](https://github.com/karan/Projects)
+- [Hacker Earth - practice problems](https://www.hackerearth.com/)
+- [Hacker Rank - practice problems](https://www.hackerrank.com/)
+- [CodingBat](http://codingbat.com/prob/p173401)
+
 ### Projects:
 
 - Calculating weighted means
@@ -58,16 +68,6 @@ Progress:
 - [Google document](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#gid=0)
 - [Open-Source Society](https://github.com/open-source-society/computer-science)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-
-### Problems problems, problems and puzzles:
-
-- [Project Euler - 592 Problems](https://projecteuler.net/) -- Progress = 24 of 624
-  <progress value="240" max="6240"></progress> 
-- [Intermediate level problems - Java but will attempt with Python/C++](https://edabit.com/explore)
-- [Karan mega project list](https://github.com/karan/Projects)
-- [Hacker Earth - practice problems](https://www.hackerearth.com/)
-- [Hacker Rank - practice problems](https://www.hackerrank.com/)
-- [CodingBat](http://codingbat.com/prob/p173401)
 
 ### Github:
 
