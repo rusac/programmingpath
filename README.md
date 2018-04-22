@@ -8,6 +8,8 @@ Progress:
 - Completed 4 Chapters of 18
     <progress value="30" max="180"></progress> 
 
+### Note taking for developers:
+- [Boostnote](https://boostnote.io/)
  
 ### Completed exercises:
 
