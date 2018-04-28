@@ -10,6 +10,7 @@ Progress:
 
 ### Note taking for developers:
 - [Boostnote](https://boostnote.io/)
+- [Linux Smoothdraw alternate](https://krita.org/en/)
  
 ### Completed exercises:
 
