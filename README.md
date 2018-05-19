@@ -115,6 +115,7 @@ Progress:
 ### NES/Gameboy Programming Resources:
 
 - [NESDev - wiki and forums](http://nesdev.com/)
+- [How music from the 8-bit video game era has inspired an entire generation of modern musicians and created new musical genres](https://tedium.co/2018/05/17/nintendo-nes-chiptune-music-scene/)
 
 ### Web development:
 
