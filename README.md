@@ -59,6 +59,10 @@ Progress:
 - [Using SSH Agent Forwarding](https://developer.github.com/v3/guides/using-ssh-agent-forwarding/)
 - [An Illustrated Guide to SSH Tunnels](https://solitum.net/an-illustrated-guide-to-ssh-tunnels/)
 
+### Networking:
+
+- [w3dt - online tools, DNS lookup, text browser, etc.](https://w3dt.net/)
+
 ### OS Resources:
 
 - [Bootstrap Yourself to Write an OS From Scratch](https://github.com/tuhdo/os01)
