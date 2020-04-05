@@ -105,6 +105,7 @@ Progress:
 - [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html)
 - [Raspberry Pi Assembly](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/)
 - [x86 Assembly Guide](http://www.cs.virginia.edu/%7Eevans/cs216/guides/x86.html)
+- [Famicom Party - Making NES Games in Assembly](https://book.famicom.party/)
 
 ### Other Programming Resources:
 
