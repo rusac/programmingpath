@@ -51,6 +51,8 @@ Progress:
 
 - [How to create a first shell script](http://www.linfo.org/create_shell_1.html)
 - [Shell scripting tutorial](https://www.shellscript.sh/)
+- [CIS 191: Linux and Unix - Build your own linux distro](https://www.cis.upenn.edu/~cis191/)
+- [Linux from scratch - Build your own linux distro](http://linuxfromscratch.org/)
 
 ### SSH Resources:
 
