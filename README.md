@@ -106,6 +106,7 @@ Progress:
 - [Raspberry Pi Assembly](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/)
 - [x86 Assembly Guide](http://www.cs.virginia.edu/%7Eevans/cs216/guides/x86.html)
 - [Famicom Party - Making NES Games in Assembly](https://book.famicom.party/)
+- [An Intel 8080 assembler and online simulator](https://eli.thegreenplace.net/2020/an-intel-8080-assembler-and-online-simulator/)
 
 ### Other Programming Resources:
 
