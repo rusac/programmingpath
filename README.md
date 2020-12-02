@@ -77,6 +77,7 @@ Progress:
 
 ### Computer Science Curriculum - Full and Online:
 
+- [CodeHS - full computer science curriculum for Gr.6-12](codehs.com)
 - [Google document](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#gid=0)
 - [Open-Source Society](https://github.com/open-source-society/computer-science)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
