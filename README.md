@@ -7,6 +7,7 @@
 Progress:
 - Completed 4 Chapters of 18
     <progress value="30" max="180"></progress> 
+- [Stanford's experimental operating systems course](https://news.ycombinator.com/item?id=25271676)
 
 ### Note taking for developers:
 - [Boostnote](https://boostnote.io/)
