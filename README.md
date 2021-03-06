@@ -67,6 +67,9 @@ Progress:
 
 - [w3dt - online tools, DNS lookup, text browser, etc.](https://w3dt.net/)
 
+### Curl
+- [Everything Curl](https://everything.curl.dev/)
+
 ### OS Resources:
 
 - [Bootstrap Yourself to Write an OS From Scratch](https://github.com/tuhdo/os01)
