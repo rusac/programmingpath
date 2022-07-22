@@ -94,6 +94,7 @@ Progress:
 
 ### Assembly Resources:
 
+- [Assembly Language Programming with ARM – Full Tutorial for Beginners](https://www.youtube.com/watch?v=gfmRrPjnEw4) -uses online emulator for various chips:https://cpulator.01xz.net/?sys=arm-de1soc
 - [Introduction to x86_64 assembly](https://gitlab.com/mcmfb/intro_x86-64)
 - [Intro to x86 Assembly - D.Wybiral](https://www.youtube.com/watch?v=wLXIWKUWpSs)
 - [Learning to Read x86 Assembly](http://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language)
