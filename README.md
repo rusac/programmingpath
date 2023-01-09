@@ -94,6 +94,7 @@ Progress:
 
 ### Assembly Resources:
 
+- [A bare metal programming guide](https://github.com/cpq/bare-metal-programming-guide)
 - [Assembly Language Programming with ARM – Full Tutorial for Beginners](https://www.youtube.com/watch?v=gfmRrPjnEw4) -uses online emulator for various chips:https://cpulator.01xz.net/?sys=arm-de1soc
 - [Introduction to x86_64 assembly](https://gitlab.com/mcmfb/intro_x86-64)
 - [Intro to x86 Assembly - D.Wybiral](https://www.youtube.com/watch?v=wLXIWKUWpSs)
